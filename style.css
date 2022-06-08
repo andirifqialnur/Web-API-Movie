@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    color: #001a3a;
+}
+
+nav {
+    background-color: #d4a34d;
+}
+
+.navbar-brand {
+    color: #001a3a;
+    font-weight: bolder;
+}
+
+.navbar-brand:hover {
+    color: white;
+    font-weight: bolder;
+}
+
+.card {
+    color: #001a3a;
+}
+
+p .btn {
+    background-color: #001a3a;
+    color: white;
+}
+p .btn:hover {
+    background-color: white;
+    border-color: #001a3a;
+    color: #001a3a;
+}
+
+.btn-search {
+    background-color: white;
+    border-color: gainsboro;
+    color: blue;
+}
+
+.btn-search:hover {
+    background-color: #001a3a;
+    border-color: #001a3a;
+    color: white;
+}
+
+
